@@ -1,4 +1,4 @@
 # melsoft-home
 Built using Javascript, Bootstrap, HTML & CSS
 
-View the live deployement [here](https://campbell-15.github.io/notable-sockwear/)
+View the live deployement [here](https://melsoft.netlify.app)
